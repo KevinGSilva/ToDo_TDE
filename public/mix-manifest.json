@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/assets/demo/chart-area-demo.js": "/assets/demo/chart-area-demo.js",
+    "/assets/demo/chart-bar-demo.js": "/assets/demo/chart-bar-demo.js",
+    "/assets/demo/chart-pie-demo.js": "/assets/demo/chart-pie-demo.js",
+    "/assets/demo/datatables-demo.js": "/assets/demo/datatables-demo.js",
+    "/assets/img/error-404-monochrome.svg": "/assets/img/error-404-monochrome.svg",
+    "/css/styles.css": "/css/styles.css",
+    "/js/bootstrap.js": "/js/bootstrap.js",
+    "/js/datatables-simple-demo.js": "/js/datatables-simple-demo.js",
+    "/js/scripts.js": "/js/scripts.js"
+}
